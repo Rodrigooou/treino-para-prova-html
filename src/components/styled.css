@@ -1,0 +1,20 @@
+.titulo{
+    background-color: red;
+}
+
+nav ul{
+    display: row;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+
+.rodape{
+    background-color: black;
+    color: gray;
+    display: row;
+    text-align: center;
+}
+
+
